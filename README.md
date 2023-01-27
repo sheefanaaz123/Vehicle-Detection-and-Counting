@@ -1,2 +1,2 @@
 # Vehicle-Detection-and-Counting
-Detect the vehicle on the road and count the number of vehicles.
+There are many devices in our lives that we rely on to do their specific job. A car, a phone, an oven - they all have one common task: detecting and counting things. In this article, we will learn how we can detect and count vehicles using OpenCV (a computer vision library) in Python. We will use the Python programming language to work with images and for image analysis, and the OpenCV computer vision library to perform the image processing tasks.
