@@ -4,7 +4,7 @@ In this project, we can detect and count vehicles using OpenCV (a computer visio
 
 This Vehicle Detection and Counting project using OpenCV can be used in a variety of industries to improve efficiency, optimize resource allocation, and enhance safety and security.
  
- ##This Vehicle Detection and Counting project using OpenCV can have several practical uses, including:
+ This Vehicle Detection and Counting project using OpenCV can have several practical uses, including:
  
  Traffic monitoring: The system can be used to monitor traffic in real-time and provide accurate data on the number of vehicles passing through a particular area.
  
